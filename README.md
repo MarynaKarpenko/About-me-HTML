@@ -1,1 +1,1 @@
-## [HTML](https://github.com/MarynaKarpenko/About-me-HTML/index2.html)
+## (https://github.com/MarynaKarpenko/About-me-HTML/index2.html)
